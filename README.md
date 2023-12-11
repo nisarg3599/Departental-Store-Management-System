@@ -23,8 +23,6 @@
         <li><a href="#task-3-inventory-management">Task 3: Inventory Management</a></li>
         <li><a href="#task-4-discount-week">Task 4: Discount Week</a></li>
       </ul>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
   </ul>
 
   <h2 id="problem-statement">Problem Statement</h2>
